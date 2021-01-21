@@ -1,0 +1,99 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Variasi Jarak ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Localization using ESP32 1D1
+MSE Min-Max 1D1: 0.38
+
+Localization using ESP32 1D2
+MSE Min-Max 1D2: 0.1
+
+Localization using ESP32 1D3
+MSE Min-Max 1D3: 0.17
+
+Localization using ESP32 1D4
+MSE Min-Max 1D4: 0.36
+
+Localization using ESP32 2D1
+MSE Min-Max 2D1: 0.37
+
+Localization using ESP32 2D2
+MSE Min-Max 2D2: 0.19
+
+Localization using ESP32 2D3
+MSE Min-Max 2D3: 0.57
+
+Localization using ESP32 2D4
+MSE Min-Max 2D4: 0.76
+
+Localization using ESP32 3D1
+MSE Min-Max 3D1: 0.76
+
+Localization using ESP32 3D2
+MSE Min-Max 3D2: 0.53
+
+Localization using ESP32 3D3
+MSE Min-Max 3D3: 0.38
+
+Localization using ESP32 3D4
+MSE Min-Max 3D4: 1.51
+
+Localization using ESP32 4D1
+MSE Min-Max 4D1: 0.83
+
+Localization using ESP32 4D2
+MSE Min-Max 4D2: 0.72
+
+Localization using ESP32 4D3
+MSE Min-Max 4D3: 0.89
+
+Localization using ESP32 4D4
+MSE Min-Max 4D4: 1.53
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~ Variasi Jarak dan Manusia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Localization using ESP32 1D1
+MSE Min-Max 1D1: 0.2
+
+Localization using ESP32 1D2
+MSE Min-Max 1D2: 0.28
+
+Localization using ESP32 1D3
+MSE Min-Max 1D3: 0.5
+
+Localization using ESP32 1D4
+MSE Min-Max 1D4: 0.83
+
+Localization using ESP32 2D1
+MSE Min-Max 2D1: 0.14
+
+Localization using ESP32 2D2
+MSE Min-Max 2D2: 0.38
+
+Localization using ESP32 2D3
+MSE Min-Max 2D3: 0.93
+
+Localization using ESP32 2D4
+MSE Min-Max 2D4: 1.07
+
+Localization using ESP32 3D1
+MSE Min-Max 3D1: 0.49
+
+Localization using ESP32 3D2
+MSE Min-Max 3D2: 0.57
+
+Localization using ESP32 3D3
+MSE Min-Max 3D3: 0.19
+
+Localization using ESP32 3D4
+MSE Min-Max 3D4: 1.38
+
+Localization using ESP32 4D1
+MSE Min-Max 4D1: 0.63
+
+Localization using ESP32 4D2
+MSE Min-Max 4D2: 0.74
+
+Localization using ESP32 4D3
+MSE Min-Max 4D3: 0.45
+
+Localization using ESP32 4D4
+MSE Min-Max 4D4: 1.54

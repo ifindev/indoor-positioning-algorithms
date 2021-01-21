@@ -1,0 +1,167 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Variasi Jarak ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+D:/Skripsweetku/Raw Data/Pengukuran Variasi Jarak Ulangan/
+
+
+Localization using ESP32 1D1.csv
+
+MSE Trilaterasi      :  0.38
+
+
+Localization using ESP32 1D2.csv
+
+MSE Trilaterasi      :  0.11
+
+
+Localization using ESP32 1D3.csv
+
+MSE Trilaterasi      :  0.17
+
+
+Localization using ESP32 1D4.csv
+
+MSE Trilaterasi      :  0.56
+
+
+Localization using ESP32 2D1.csv
+
+MSE Trilaterasi      :  0.23
+
+
+Localization using ESP32 2D2.csv
+
+MSE Trilaterasi      :  0.26
+
+
+Localization using ESP32 2D3.csv
+
+MSE Trilaterasi      :  0.57
+
+
+Localization using ESP32 2D4.csv
+
+MSE Trilaterasi      :  0.46
+
+
+Localization using ESP32 3D1.csv
+
+MSE Trilaterasi      :  0.81
+
+
+Localization using ESP32 3D2.csv
+
+MSE Trilaterasi      :  0.58
+
+
+Localization using ESP32 3D3.csv
+
+MSE Trilaterasi      :  0.73
+
+
+Localization using ESP32 3D4.csv
+
+MSE Trilaterasi      :  1.64
+
+
+Localization using ESP32 4D1.csv
+
+MSE Trilaterasi      :  0.47
+
+
+Localization using ESP32 4D2.csv
+
+MSE Trilaterasi      :  1.27
+
+
+Localization using ESP32 4D3.csv
+
+MSE Trilaterasi      :  1.06
+
+
+Localization using ESP32 4D4.csv
+
+MSE Trilaterasi      :  0.99
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~ Variasi Jarak dan Manusia ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+D:/Skripsweetku/Raw Data/Pengukuran Variasi Jarak dan Manusia/
+
+
+Localization using ESP32 1D1.csv
+
+MSE Trilaterasi      :  1.05
+
+
+Localization using ESP32 1D2.csv
+
+MSE Trilaterasi      :  1.7
+
+
+Localization using ESP32 1D3.csv
+
+MSE Trilaterasi      :  3.26
+
+
+Localization using ESP32 1D4.csv
+
+MSE Trilaterasi      :  1.22
+
+
+Localization using ESP32 2D1.csv
+
+MSE Trilaterasi      :  0.33
+
+
+Localization using ESP32 2D2.csv
+
+MSE Trilaterasi      :  0.84
+
+
+Localization using ESP32 2D3.csv
+
+MSE Trilaterasi      :  1.9
+
+
+Localization using ESP32 2D4.csv
+
+MSE Trilaterasi      :  1.06
+
+
+Localization using ESP32 3D1.csv
+
+MSE Trilaterasi      :  0.71
+
+
+Localization using ESP32 3D2.csv
+
+MSE Trilaterasi      :  0.59
+
+
+Localization using ESP32 3D3.csv
+
+MSE Trilaterasi      :  1.07
+
+
+Localization using ESP32 3D4.csv
+
+MSE Trilaterasi      :  1.32
+
+
+Localization using ESP32 4D1.csv
+
+MSE Trilaterasi      :  0.48
+
+
+Localization using ESP32 4D2.csv
+
+MSE Trilaterasi      :  1.32
+
+
+Localization using ESP32 4D3.csv
+
+MSE Trilaterasi      :  0.96
+
+
+Localization using ESP32 4D4.csv
+
+MSE Trilaterasi      :  0.94
