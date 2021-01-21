@@ -1,16 +1,16 @@
 """
-Author					: Muhammad Arifin
-Institution			: Department of Nuclear Engineering and Engineering Physics, Universitas Gadjah Mada
+Author		: Muhammad Arifin
+Institution	: Department of Nuclear Engineering and Engineering Physics, Universitas Gadjah Mada
 Initial Release	: 29th April, 2020
-License					: MIT License
-
-Description			: This program is a direct implementation of mathematical equations used to calculate 
-									min-max algorithm for indoor positioning using Received Signal Strength Indicator (RSSI)
-									data from four Wi-Fi routers. The mathematics are derived in my thesis and in other
-									journal papers on internet.
+License		: MIT License
+Description	: This program is a direct implementation of mathematical equations used to calculate 
+		  min-max algorithm for indoor positioning using Received Signal Strength Indicator (RSSI)
+		  data from four Wi-Fi routers. The mathematics are derived in my thesis and in other
+		  journal papers on internet.
 				  
 
-Licensing		: This program is licensed under MIT License. 
+Licensing	: This program is licensed under MIT License. 
+
 				  		MIT License
 
 Copyright (c) [2020] [Muhammad Arifin]
